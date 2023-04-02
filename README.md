@@ -1,2 +1,2 @@
 # collector
-sample repo for hiring
+sample repo for experimental purpose
